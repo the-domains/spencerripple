@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SpencerRipple]]></title>
+        <description><![CDATA[SpencerRipple]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Oct 2015 01:27:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“Disturbing…a wake up call.”]]></title>
+            <description><![CDATA[<article><h1>“Disturbing…a wake up call.”</h1><img src="http://freespeechapocalypse.com/wp-content/uploads/2015/10/banner-header.jpg"></article>]]></description>
+            <link>http://freespeechapocalypse.com/press/</link>
+            <guid isPermaLink="false">5b08f458-43df-4e6d-a69b-a2061a0e1ae4</guid>
+            <pubDate>Mon, 19 Oct 2015 01:27:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
