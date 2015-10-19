@@ -1,4 +1,4 @@
-name: null
+name: SpencerRipple
 favicon: null
 layout_spectrum: 0.7039857131894678
 typography_spectrum: 0.18307166802696884
@@ -7,7 +7,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: 'http://spencerripple.com'
   facebook: null
   twitter: null
 opengraph:
